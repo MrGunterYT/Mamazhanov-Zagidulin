@@ -1,1 +1,1 @@
-# Mamazhanov-Zagidulin
+# Mamazhanov-Zagidullin
