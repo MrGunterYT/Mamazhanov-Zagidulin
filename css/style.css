@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/*Head*/
 body
 {
     min-width: 350px;
@@ -16,7 +16,7 @@ header
 
 .wrapper
 {
-    max-width: 1170px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 
@@ -121,7 +121,7 @@ header
 {
     border: 3px solid #fff;
 }
-
+/*Gallery*/
 .gallery {
     display: block;
 }
@@ -136,6 +136,9 @@ header
 }
 .gallery-txt {
     text-align: center;
+}
+.gallery img {
+    border-radius: 2px;
 }
 .logos {
     width: 100%;
